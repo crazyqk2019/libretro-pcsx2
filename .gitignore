@@ -108,3 +108,4 @@ build*/
 *.files
 *.includes
 *.autosave
+/vc_build
